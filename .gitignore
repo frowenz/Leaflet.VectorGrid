@@ -6,3 +6,4 @@ dist
 .gobble
 .gobble-build
 .gobble-watch
+.DS_Store
